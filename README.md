@@ -1,6 +1,8 @@
-# Trading pattern
+# trading-pattern
 
-# Introduction
+## Trading Pattern
+
+### Introduction
 
 [https://github.com/vietphan1995/trade-pattern.git](https://github.com/vietphan1995/trade-pattern.git)
 
@@ -18,7 +20,7 @@ Trading pattern supports traceback, history functions in market.
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+[back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
 https://phantrungviet.notion.site/Trading-pattern-1b25e832d6ee8051a23cd7cf378ba4b5
